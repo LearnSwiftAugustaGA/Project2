@@ -96,7 +96,6 @@
 				TargetAttributes = {
 					EB8018EB1F3CCE7E00C7499E = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = 57Z2X7TWVH;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -261,7 +260,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 57Z2X7TWVH;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = Project2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.learnswiftaugustaga.Project2;
@@ -274,7 +273,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 57Z2X7TWVH;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = Project2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.learnswiftaugustaga.Project2;
